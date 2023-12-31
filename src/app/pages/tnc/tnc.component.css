@@ -1,0 +1,11 @@
+.bg-theme {
+    background-color: var(--primary-color);
+}
+
+.btn-sub {
+  color: white;
+  height: 58px;
+  border: none;
+  font-size: 13px;
+  background-color: var(--primary-color);
+}
