@@ -1,13 +1,12 @@
-:root{
-    --primary-color: #026467;
-    --secondary-color: #E5F5EA;
-    --body-text-color: #596392;
-    --navbar-footer-color: #F9F9F9;
+:root {
+  --primary-color: #026467;
+  --secondary-color: #e5f5ea;
+  --body-text-color: #596392;
+  --navbar-footer-color: #f9f9f9;
 }
 
-
 body {
-    font-family: 'Roboto', sans-serif;
-    font-size: 12px;
-    color: var(--body-text-color);
+  font-family: "Roboto", sans-serif;
+  font-size: 12px;
+  color: var(--body-text-color);
 }
